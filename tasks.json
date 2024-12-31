@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Buy groceries and some fruits",
+        "status": "done"
+    },
+    {
+        "description": "Buy groceries",
+        "status": "not done"
+    },
+    {
+        "description": "cook dinner",
+        "status": "not done"
+    }
+]
